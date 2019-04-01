@@ -1,10 +1,10 @@
 {
-  "main.js": "/static/js/main.365adbe7.chunk.js",
-  "runtime~main.js": "/static/js/runtime~main.c5541365.js",
-  "static/css/2.7c880d99.chunk.css": "/static/css/2.7c880d99.chunk.css",
-  "static/js/2.2c1fb909.chunk.js": "/static/js/2.2c1fb909.chunk.js",
-  "index.html": "/index.html",
-  "precache-manifest.34a41831c90d1fd2aba043f8e1056987.js": "/precache-manifest.34a41831c90d1fd2aba043f8e1056987.js",
-  "service-worker.js": "/service-worker.js",
-  "static/media/sp.svg": "/static/media/sp.d877c966.svg"
+  "main.js": "/qaisgroup/static/js/main.4309ee36.chunk.js",
+  "runtime~main.js": "/qaisgroup/static/js/runtime~main.90399d09.js",
+  "static/css/2.7c880d99.chunk.css": "/qaisgroup/static/css/2.7c880d99.chunk.css",
+  "static/js/2.800cc483.chunk.js": "/qaisgroup/static/js/2.800cc483.chunk.js",
+  "index.html": "/qaisgroup/index.html",
+  "precache-manifest.0762f8bad197448ea26df74dd6b5da8b.js": "/qaisgroup/precache-manifest.0762f8bad197448ea26df74dd6b5da8b.js",
+  "service-worker.js": "/qaisgroup/service-worker.js",
+  "static/media/sp.svg": "/qaisgroup/static/media/sp.d877c966.svg"
 }
